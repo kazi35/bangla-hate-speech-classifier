@@ -1,0 +1,10 @@
+# Ignore virtual environment and other unnecessary files
+venv/
+__pycache__/
+*.pyc
+*.csv
+*.onnx
+*.safetensors
+*.zip
+results/
+logs/
